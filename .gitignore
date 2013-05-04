@@ -49,3 +49,5 @@ target/
 # Project #
 ######################
 bin/
+test/org/hrxml/parser/linkedin-response-person.xml
+test/org/hrxml/parser/linkedin-response-contact.xml
